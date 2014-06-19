@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+arr	/home/mahyar/Desktop/Projects/programming/euler/18.c	/^int arr[] = $/;"	v	language:C
+fact	/home/mahyar/Desktop/Projects/programming/euler/fact.c	/^int fact(int **p, int n)$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/1.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/10.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/11.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/12.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/13.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/14.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/15.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/16.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/17.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/18.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/2.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/20.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/22.c	/^int  main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/25.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/3.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/4.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/6.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/7.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/8.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/9.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/damn.c	/^int main()$/;"	f	language:C
+main	/home/mahyar/Desktop/Projects/programming/euler/fact.c	/^int main()$/;"	f	language:C
+merge	/home/mahyar/Desktop/Projects/programming/euler/22.c	/^void merge(char **ptr, int n1, int n2)$/;"	f	language:C
+merge_sort	/home/mahyar/Desktop/Projects/programming/euler/22.c	/^void merge_sort(char **ptr, int size)$/;"	f	language:C
+reverse	/home/mahyar/Desktop/Projects/programming/euler/4.c	/^int reverse(int a)$/;"	f	language:C
+the_number	/home/mahyar/Desktop/Projects/programming/euler/8.c	/^char the_number[] = $/;"	v	language:C
